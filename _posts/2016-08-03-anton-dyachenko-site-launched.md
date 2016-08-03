@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Anton Dyachenko, Launches Site"
-date: 2016-08-30
+date: 2016-08-03
 ---
 
 Well. Finally i launched my first personal website. Hope, things get well and i build a professional one.
